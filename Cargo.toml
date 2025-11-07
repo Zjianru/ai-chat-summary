@@ -1,0 +1,15 @@
+[workspace]
+members = [
+  "apps/cli",
+  "ai",
+  "ai-deepseek",
+  "config",
+  "extractor-json",
+  "extractor-wechat",
+  "monitoring",
+  "orchestrator",
+  "preprocess",
+  "sender-wechat",
+  "storage",
+]
+resolver = "2"
